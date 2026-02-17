@@ -1,0 +1,11 @@
+pymongo
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+pypdf
+python-dotenv
+tiktoken
+langchain-ollama
+langchain-openai
+langchain-mongodb
